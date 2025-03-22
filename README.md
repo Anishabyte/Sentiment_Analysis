@@ -14,9 +14,9 @@
 # 🚀 Models Used
 Multiple Deep learning models were implemented and compared to find the best-performing algorithm:
 
-# Neural Network (achieved accuracy at 76%) 
-# Convolutional Neural Network (achieved accuracy at 85% )
-# LSTM (achieved highest accuracy at 86%) The LSTM  model was selected as the final model due to its high accuracy and robust performance on test data.
+* Neural Network (achieved accuracy at 76%) 
+*  Convolutional Neural Network (achieved accuracy at 85% )
+* LSTM (achieved highest accuracy at 86%) The LSTM  model was selected as the final model due to its high accuracy and robust performance on test data.
 
 # ⚙️ Key Features
 We got the best results from LSTM model with an accuracy of 86% 
